@@ -20,3 +20,13 @@ const IdeaGenerator = () =>{
 };
 
 export default IdeaGenerator;
+
+// const firebaseConfig = {
+//   apiKey: "AIzaSyDUZIKQUYKVnqQByfZlS1Xz3ywj5Z1feoc",
+//   authDomain: "bcrm-c8d86.firebaseapp.com",
+//   projectId: "bcrm-c8d86",
+//   storageBucket: "bcrm-c8d86.appspot.com",
+//   messagingSenderId: "764896542444",
+//   appId: "1:764896542444:web:ec4a5aebc67f01b6302fc9",
+//   measurementId: "G-LHK1ZX4WVK"
+// };
